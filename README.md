@@ -2,6 +2,8 @@
 <h2 id="introduction">Introduction</h2>
 <p>This is a simple python 3 script that lets you use pytube and tkinter to download a list of youtube videos to a folder.</p>
 <h2 id="installation">Installation</h2>
+<p>You can use the portable executable in the repo above or download the script and run it yourself.</p>
+<p>In order for the executable to work you may need to install Visual Studio C++ Redistributable(s) from Microsoft.</p>
 <p>Make sure you have pytube installed by running the following command</p>
 <blockquote>
 <p>pip3 install pytube</p>
