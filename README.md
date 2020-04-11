@@ -1,8 +1,4 @@
----
-
-
----
-
+![](https://img.shields.io/github/stars/harrisoncbrammell/Youtube-Video-Download-Assistant) ![](https://img.shields.io/github/forks/harrisoncbrammell/Youtube-Video-Download-Assistant) ![](https://img.shields.io/github/pipenv/locked/python-version/harrisoncbrammell/Youtube-Video-Download-Assistant?color=hh) ![](https://img.shields.io/github/downloads/harrisoncbrammell/Youtube-Video-Download-Assistant/total) ![](https://img.shields.io/github/issues/harrisoncbrammell/Youtube-Video-Download-Assistant)
 <h2 id="introduction">Introduction</h2>
 <p>This is a simple python 3 script that lets you use pytube and tkinter to download a list of youtube videos to a folder.</p>
 <h2 id="installation">Installation</h2>
